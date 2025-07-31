@@ -14,10 +14,10 @@ def run_line(line, lines_iter=None):
 
     # Lệnh joke
     if line == "joke":
-        print("😂 Caython sinh ra từ sự nghiêm túc quá mức của Python!")
-        print("🤖 'kaatos' là lời nguyền cổ xưa từ một dòng code sai cú pháp.")
-        print("🎭 'kayka' nghe như khai báo, nhưng là tên của con vẹt AI.")
-        print("🚀 'TungSad' thật ra là tên bài hát của một mạng nơ-ron thất bại.")
+        print(" Caython la cai ten toi sua tu "python" nhung toi bi y tuong ")
+        print(" 'kaatos' là kiitos trong tieng phan lan nhung toi viet sai chinh ta")
+        print("🎭 'kayka' la 1 tu phan lan.")
+        print("🚀 'TungSad' la ban toi that tinh nen toi viet the.")
 
     # Biến
     elif line.startswith("kayka "):
